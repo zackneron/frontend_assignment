@@ -1,0 +1,154 @@
+body {
+	background-image: url(bcg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content {
+    margin: 0 auto;
+    width: 950px;
+    height: auto;
+    background-color: #50826e;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px; 0 5px 0;
+    padding-left: 10px;
+    color: #ffffff;
+    border: 3px solid #ffffff;
+}
+
+.content dd {
+    font-size: 14px;
+}
+
+.content dt {
+    font-size: 16px;
+    font-weight: bold;
+}
+/* Div Start */
+.section {
+	width: 100%;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	background-color: transparent;
+}
+
+.section .section {
+	border: 2px solid  #ffffff;
+	width: 950px;
+	background-color: 	#50826e;
+	border-radius: 10px;
+    margin: 0 auto;
+}
+
+#scEMAAG {
+	border: 2px solid  #ffffff;
+	width: 950px;
+	margin-top: 10px;
+	background-color:#50826e;
+	border-radius: 10px;
+}
+h1.title {
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+}
+
+h2.title {
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	padding-left: 10px;
+	text-decoration: underline;
+}
+figure {
+	width: 930px;
+	margin: 0 auto;
+}
+
+figure img {
+	width: 100%;
+	height: 300px;
+}
+.note {
+	border: 1px solid #ff7373;
+	width: 890px;
+	margin-left: 15px;
+}
+
+.workstep {
+	border: 1px solid #000000;
+	width: 890px;
+	margin: 5px 0 5px 5px;
+    color: #ffffff;
+}
+
+.mathidentity {
+	border: 1px solid #ce260b;
+	width: 910px;
+	margin: 5px 0 5px 10px;
+    border-radius: 5px;
+}
+
+.exercises {
+	border: 2px solid #ce260b;
+	width: 890px;
+	margin: 5px 0 5px 15px;
+}
+
+.problemset {
+	width: 870px;
+	margin: 5px 0 5px 5px;
+}
+
+.header{
+	margin: 5px 0 5px 5px;
+	width: 830px;
+} 
+
+.entry {
+	border: 1px solid #000000;
+	margin: 5px 0 5px 5px;
+	width: 850px;
+} 
+
+.problem, .solution{
+	margin: 5px 0 5px 5px;
+	width: 830px;
+    color: #ffffff;
+}
+
+.worked_example {
+	
+	width: 905px;
+	margin: 5px 0 5px 10px;
+} 
+/* Div End */
+h1 {
+	text-align: center;
+}
+.section p {
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+em {
+	color: blue;
+}
+.caption {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+p, li {
+	padding-left: 10px;
+	font-size: 14px;
+    color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+}
+

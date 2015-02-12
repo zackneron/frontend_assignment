@@ -1,0 +1,416 @@
+@media only screen and (max-width: 950px) {
+    body {
+		background-color: #ffffff;
+	}
+/* DOM section */
+    
+.content {
+    width: 900px;
+    border: 1px solid #ffffff;
+}
+
+/* DOM End */
+    
+    .section {
+	width: 100%;
+	padding-bottom: 10px;
+	background-color: #ffffff;
+}
+
+.section .section {
+	width: 900px;
+	background-color: #50826e;
+	border-radius: 10px;
+}
+
+#scEMAAG {
+	width: 900px;
+	background-color: #50826e;
+	
+}
+
+figure {
+	width: 900px;
+	margin: 0 auto;
+}
+
+figure img {
+	width: 100%;
+	height: 300px;
+}
+.note {
+    border: 1px solid #ff7373;
+	width: 860px;
+	margin-left: 10px;
+}
+
+.workstep {
+	
+	width: 860px;
+	margin: 5px 0 5px 5px;
+    color: #ffffff;
+    border: 1px solid black;
+}
+
+.mathidentity {
+	
+	width: 880px;
+	margin: 5px 0 5px 10px;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+
+.exercises {
+	border: 2px solid #ce260b;
+	width: 880px;
+	margin: 5px 0 5px 10px;
+}
+
+.problemset {
+	
+	width: 870px;
+	margin: 5px 0 5px 5px;
+}
+
+.header{
+	
+	margin: 5px 0 5px 5px;
+	width: 800px;
+} 
+
+.entry {
+	border: 1px solid black;
+	margin: 5px 0 5px 5px;
+	width: 840px;
+} 
+
+.problem, .solution{
+	 color: #ffffff;
+	margin: 5px 0 5px 5px;
+	width: 800px;
+}
+
+.worked_example {
+	
+	width: 875px;
+	margin: 5px 0 5px 10px;
+} 
+/*End of 950px*/
+}
+
+@media only screen and (max-width: 768px) {
+	
+/* DOM section */
+    
+.content {
+    width: 700px;
+    text-align: center;
+}
+
+/* DOM End */
+	.section {
+	width: 100%;
+	padding-bottom: 10px;
+}
+
+.section .section {
+	
+	width: 720px;
+	
+}
+
+#scEMAAG {
+	
+	width: 720px;
+	margin-top: 10px;
+	
+	
+}
+
+figure {
+	width: 720px;
+	margin: 0 auto;
+}
+
+.note {
+
+	width: 690px;
+}
+
+.workstep {
+	
+	width: 650px;
+}
+
+.mathidentity {
+	
+	width: 690px;
+}
+
+.exercises {
+	width: 690px;
+}
+
+.problemset {
+	
+	width: 670px;
+}
+
+.header{
+	width: 600px;
+} 
+
+.entry {
+	width: 630px;
+} 
+
+.problem, .solution{
+	width: 600px;
+}
+
+.worked_example {
+	width: 690px;
+	margin: 5px 0 5px 10px;
+} 
+/*End of 768px*/
+}
+
+@media only screen and (max-width: 540px) {
+	
+/* DOM section */
+    
+.content {
+    width: 450px;
+}
+
+/* DOM End */
+    .section {
+	width: 100%;
+}
+
+.section .section {
+	width: 470px;
+}
+
+#scEMAAG {
+	width: 470px;
+}
+
+figure {
+	width: 500px;
+	margin: 0 auto;
+}
+
+figure img {
+	display: none;
+}
+.note {
+	width: 440px;
+}
+
+.workstep {
+	width: 420px;
+}
+
+.mathidentity {
+	width: 410px;
+}
+
+.exercises {
+	width: 440px;
+}
+
+.problemset {
+	width: 420px;
+}
+
+.header{
+	width: 400px;
+} 
+
+.entry {
+	width: 400px;
+} 
+
+.problem, .solution{
+	width: 370px;
+}
+
+.worked_example {
+	width: 440px;
+} 
+
+h1.title {
+	font-size: 18px;
+}
+
+h2.title {
+	font-size: 14px;
+	text-decoration: none;
+}
+p {
+	padding-left: 5px;
+	font-size: 12px;
+}
+
+.section p {
+	font-size: 12px;
+}
+
+/*End of 540px*/
+}
+
+@media only screen and (max-width: 480px) {
+    
+/* DOM section */
+    
+.content {
+    display: none;
+}
+
+/* DOM End */
+    
+	.section {
+	padding-bottom: 5px;
+}
+
+.section .section {
+	width: 420px;
+}
+
+#scEMAAG {
+	width: 420px;
+}
+
+.note {
+	width: 400px;
+	margin-left: 5px;
+}
+
+.workstep {
+	width: 380px;
+}
+
+.mathidentity {
+	width: 400px;
+}
+
+.exercises {
+	border: 2px solid blue;
+	width: 400px;
+	margin: 5px 0 5px 5px;
+}
+
+.problemset {
+	width: 380px;
+}
+
+.header{
+	width: 360px;
+} 
+
+.entry {
+	width: 360px;
+} 
+
+.problem, .solution{
+	width: 340px;
+}
+
+.worked_example {
+	width: 400px;
+} 
+
+p {
+	padding-left: 5px;
+	font-size: 12px;
+}
+.section p {
+	font-size: 12px;
+}
+
+h1.title {
+	font-size: 16px;
+}
+
+h2.title {
+	font-size: 14px;
+	text-decoration: none;
+}
+
+/*End of 480px*/
+}
+
+@media only screen and (max-width: 320px) {
+	.section {
+	padding-bottom: 5px;
+}
+
+.section .section {
+	width: 270px;
+}
+
+#scEMAAG {
+	width: 270px;
+	border-radius: 5px;
+}
+
+figure {
+	display: none;
+}
+.note {
+	width: 260px;
+	margin-left: 5px;
+}
+
+.workstep {
+	width: 250px;
+	margin: 5px 0 5px 5px;
+}
+
+.mathidentity {
+	width: 260px;
+	margin: 5px 0 5px 5px;
+}
+
+.exercises {
+	width: 255px;
+	margin: 5px 0 5px 5px;
+}
+
+.problemset {
+	width: 245px;
+	margin: 5px 0 5px 5px;
+}
+
+.header{
+	margin: 5px 0 5px 5px;
+	width: 230px;
+} 
+
+.entry {
+	margin: 3px 0 3px 5px;
+	width: 230px;
+} 
+
+.problem, .solution{
+	margin: 3px 0 3px 5px;
+	width: 210px;
+}
+
+.worked_example {
+	width: 257px;
+	margin: 3px 0 3px 5px;
+} 
+
+p {
+	padding-left: 3px;
+	font-size: 10px;
+}
+.section p {
+	font-size: 10px;
+	text-align: left;
+}
+
+/*End of 320px*/
+}
